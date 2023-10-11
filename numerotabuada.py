@@ -10,5 +10,5 @@ tabuada7 = numero * 7
 tabuada8 = numero * 8
 tabuada9 = numero * 9
 tabuada10 = numero * 10
-tabuada_completa = {tabuada0, tabuada1, tabuada2, tabuada3, tabuada4, tabuada5, tabuada6, tabuada7, tabuada8, tabuada9, tabuada10}
-print("A tabuada do seu número é:", tabuada_completa)
+tabuadacompleta = [tabuada0, tabuada1, tabuada2, tabuada3, tabuada4, tabuada5, tabuada6, tabuada7, tabuada8, tabuada9, tabuada10]
+print("A tabuada do seu número é:", tabuadacompleta)
